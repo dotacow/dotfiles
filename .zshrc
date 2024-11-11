@@ -1,0 +1,1 @@
+/home/dotacow/.zshrc
